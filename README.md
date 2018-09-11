@@ -25,7 +25,7 @@ With this you have a Easy to cary Cold storage Wallet where you can have the Blo
 
 
 
+[This Picture is under copyright of Newtl]
 
 
-[This is under copyright of Newtl and the LitecoinZ Team]
 ![Image of Pic](https://github.com/newtl/WallWallet/blob/master/Pic.jpg)
