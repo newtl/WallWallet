@@ -7,13 +7,13 @@ LitecoinZ "WallWallet" ( Test Phase, not Final )
 - Download your wallet from https://litecoinz.org/ (Windows version)
 
 - Run the win.setup. and couse the folder usb/ltz as destination.
-star:
+
   - After instlation do not finish and run Litecoinz (64-bit)!!
 
 - Create in usb/ltz the folder: ```block```
  
 - Edit a text with notpad and write: ``` start ltz/litecoinz-qt.exe -datadir=ltz/block ```
-star:
+
   - Save this as ```start.bat``` file and delete the .txt
 
   - Klick on the start.bat and it downloads your %appdata% content in the ```usb/ltz/block``` folder.
