@@ -6,7 +6,7 @@ LitecoinZ "WallWallet" ( Test Phase, not Final )
 
 - Download your wallet from https://litecoinz.org/ (Windows version)
 
--Run the win.setup. and couse the folder usb/ltz as destination.
+- Run the win.setup. and couse the folder usb/ltz as destination.
 star:
   - After instlation do not finish and run Litecoinz (64-bit)!!
 
