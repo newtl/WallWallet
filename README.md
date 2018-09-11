@@ -22,5 +22,10 @@ Further Encrypton of the Usb with Bitlocker or other Apps can improve the securi
 
 
 With this you have a Easy to cary Cold storage Wallet where you can have the Blockchain always with you and Plug ´n´ play.
-![Image of Pic]
-(https://github.com/newtl/WallWallet/blob/master/Pic.jpg)
+
+
+
+
+
+[This is under copyright of Newtl and the LitecoinZ Team]
+![Image of Pic](https://github.com/newtl/WallWallet/blob/master/Pic.jpg)
