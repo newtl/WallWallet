@@ -1,6 +1,6 @@
 # WallWallet
 
-LitecoinZ "WallWallet" ( Test Phase, not Final )
+
 
 - Create on usb folder named: ```ltz```
 
