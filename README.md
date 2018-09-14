@@ -26,7 +26,7 @@ Build/setup.exe Description for Windows
   
   - click you trought the setup and open your wallet with the ```StartLitecoinZ.bat```
 
-  - Drag the Folder ```Newtl``` cointaining the WallWallet on a USB and Rename it to your needs.
+  - Drag the Folder ```Newtl``` cointaining the ```WallWallet``` on a USB and Rename it to your needs.
 
 
 - Now Further Encrypton of the Usb with Bitlocker or other Apps can improve the security.
@@ -35,7 +35,9 @@ Build/setup.exe Description for Windows
 With this you have a Easy to cary Cold storage Wallet where you can have the Blockchain always with you and Plug ´n´ play.
 
 LitecoinZ Windows Wallet Version 
+
 v1.0.17.1
+ 
  c5f626d
 
 
