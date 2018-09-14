@@ -21,16 +21,15 @@ Build/setup.exe Description for Windows
 
 
 
--You can also Dowload a Setup.exe here: https://github.com/newtl/WallWallet/blob/master/setup.exe
+- You can also Dowload a Setup.exe here: https://github.com/newtl/WallWallet/blob/master/setup.exe
 
-  -click you trought the setup and open your wallet with the ```StartLitecoinZ.bat```
+  
+  - click you trought the setup and open your wallet with the ```StartLitecoinZ.bat```
+
+  - Drag the Folder ```Newtl``` cointaining the WallWallet on a USB and Rename it to your needs.
 
 
-
--Drag the Folder ```Newtl``` cointaining the WallWallet on a USB and Rename it to your needs.
-
-
--Now Further Encrypton of the Usb with Bitlocker or other Apps can improve the security.
+- Now Further Encrypton of the Usb with Bitlocker or other Apps can improve the security.
 
 
 With this you have a Easy to cary Cold storage Wallet where you can have the Blockchain always with you and Plug ´n´ play.
