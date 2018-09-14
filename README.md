@@ -21,7 +21,7 @@ Build/setup.exe Description for Windows
 
 
 
-- You can also Dowload a Setup.exe here: https://github.com/newtl/WallWallet/blob/master/setup.exe
+- You can also Dowload a Setup.exe here: https://github.com/newtl/WallWallet/releases
 
   
   - click you trought the setup and open your wallet with the ```StartLitecoinZ.bat```
