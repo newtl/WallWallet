@@ -18,6 +18,11 @@
 
   - Klick on the start.bat and it downloads your %appdata% content in the ```usb/ltz/block``` folder.
 
+
+
+-You can also Dowload a Setup.exe here: https://github.com/newtl/WallWallet/blob/master/Setup.exe
+
+
 -Further Encrypton of the Usb with Bitlocker or other Apps can improve the security.
 
 
