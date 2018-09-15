@@ -15,17 +15,17 @@ Build/setup.exe Description for Windows
 
 # How its made
 
-- Create on /usb folder named: ```ltz```
+- Create on /usb a folder named: ```ltz```
 
 - Download your wallet from https://litecoinz.org/ (Windows version)
 
 - Run the win.setup. and couse the folder usb/ltz as destination.
 
-  - After instlation do not finish and run Litecoinz (64-bit)!!
+  - After Setup uncheck [ ] run Litecoinz (64-bit) and finish!!
 
-- Create in usb/ltz the folder: ```block```
+- Now Create in usb/ltz the folder: ```block```
  
-- Edit a text with notpad and write: ``` start ltz/litecoinz-qt.exe -datadir=ltz/block ```
+- Then Edit a text with notpad and write: ``` start ltz/litecoinz-qt.exe -datadir=ltz/block ```
 
   - Save this as ```start.bat``` file and place it on the /usb folder
 
