@@ -5,7 +5,7 @@ Build/setup.exe Description for Windows
 
 # Windows setup.exe
 
-- You can also Dowload a Setup.exe here: https://github.com/newtl/WallWallet/releases
+- Dowload the Setup.exe here: https://github.com/newtl/WallWallet/releases
 
   
   - click you trought the setup and open your wallet with the ```StartLitecoinZ.bat```
@@ -15,7 +15,7 @@ Build/setup.exe Description for Windows
 
 # How its made
 
-- Create on usb folder named: ```ltz```
+- Create on /usb folder named: ```ltz```
 
 - Download your wallet from https://litecoinz.org/ (Windows version)
 
@@ -27,7 +27,7 @@ Build/setup.exe Description for Windows
  
 - Edit a text with notpad and write: ``` start ltz/litecoinz-qt.exe -datadir=ltz/block ```
 
-  - Save this as ```start.bat``` file and delete the .txt
+  - Save this as ```start.bat``` file and place it on the /usb folder
 
   - Klick on the start.bat and it downloads your %appdata% content in the ```usb/ltz/block``` folder.
 
