@@ -4,7 +4,7 @@
 
 - Create on /usb a folder named: ```ltz```
 
-- Download your wallet from https://litecoinz.org/ (Windows version)
+- Download your wallet from https://github.com/litecoinz-project/litecoinz/releases (Windows version)
 
 - Run the win.setup. and couse the folder usb/ltz as destination.
 
