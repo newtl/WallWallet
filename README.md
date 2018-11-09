@@ -28,7 +28,7 @@ With this you have a Easy to cary Cold storage Wallet where you can have the Blo
 
 
 
-#This type of Storage will not give you Security against infected Computer!!!
+# This type of Storage will not give you Security against infected Computer!!!
 
 
 
