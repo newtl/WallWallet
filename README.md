@@ -26,6 +26,7 @@
 
 With this you have a Easy to cary Cold storage Wallet where you can have the Blockchain always with you and Plug ´n´ play.
 
+This type of Storage will not give you Security against infected Computer!!!
 
 
 
